@@ -26,7 +26,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
 
 ## 📁 Project Page
 
-<img src="Frame_55.png" width="100" />
+<img src="Frame_55.png" width="1000" />
 
 - **Video Player**
     - Video w/ Yolo&OWL-ViT Object Detection Bounding Box
@@ -38,7 +38,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
     - Retrieve the top-20 description and correcponding timestamp
     - Combine consequtive similar description
 
-<img src="Frame_56.png" width="100" />
+<img src="Frame_56.png" width="1000" />
 
 - **Object Confidence Graph**
     - Show multiple confidences of detected objects
