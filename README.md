@@ -33,7 +33,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
 
 ---
 
-![Frame 55 (1).png](Frame_55_(1).png)
+![Frame 55.png](Frame_55.png)
 
 - **Video Player**
     - Video w/ Yolo&OWL-ViT Object Detection Bounding Box
