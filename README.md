@@ -2,8 +2,6 @@
 
 # 📸 VIDEX
 
----
-
 **VIDEX** is a **semantic video indexing** system that converts **surveillance footage** into searchable segments through integrated **object detection**, **open-vocabulary expansion**, and **retrieval-enhanced scene captioning**. The system enables **rapid natural-language retrieval** of incident-relevant scenes and **reduces analytical workload** through **scalable distributed inference**.
 
 ## 🗝️ Key word
@@ -15,13 +13,10 @@
 
 # 🪄 Interface
 
----
-
 The frontend of VIDEX offers user-friendly interface so that user can easily explore the result of analysis. Here are more detailed descroption about interface and how to use them.
 
 ## 🏠 Home Page
 
----
 
 - Create project by uploading video which want to analyze
     - Set project name and crop the video in upload modal
@@ -30,8 +25,6 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
 - Delete created projects
 
 ## 📁 Project Page
-
----
 
 ![Frame 55.png](Frame_55.png)
 
@@ -56,14 +49,11 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
 
 # 💨 Quick Start
 
----
 
 ```python
 
 ```
 
 # 📹 Demo Video
-
----
 
 Demo video is avaiable in (링크)
