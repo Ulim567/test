@@ -13,9 +13,10 @@
 
 # 📹 Demo Video
 
-Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)<br/><br/>
-  
-  
+Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
+<br/><br/>
+
+
 # 🪄 Interface
 
 The frontend of VIDEX offers user-friendly interface so that user can easily explore the result of analysis. Here are more detailed descroption about interface and how to use them.<br/><br/>
