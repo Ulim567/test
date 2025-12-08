@@ -17,6 +17,9 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
   
 ## 🏠 Home Page
 
+<img src="Frame 64.png" width="500" />
+
+<img src="Frame 63.png" width="500" />
 
 - Create project by uploading video which want to analyze
     - Set project name and crop the video in upload modal
@@ -27,7 +30,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
   
 ## 📁 Project Page
 
-<img src="Frame_55.png" width="1000" />
+<img src="Frame_55.png" width="500" />
 
 - **Video Player**
     - Video w/ Yolo&OWL-ViT Object Detection Bounding Box
@@ -40,7 +43,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
     - Combine consequtive similar description<br/><br/>
   
   
-<img src="Frame_56.png" width="1000" />
+<img src="Frame_56.png" width="500" />
 
 - **Object Confidence Graph**
     - Show multiple confidences of detected objects
