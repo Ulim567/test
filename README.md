@@ -7,12 +7,12 @@
 - Semantic video indexing
 - Natural-language video retrieval
 - Surveillance video
-- Open-vocabulary detection
+- Open-vocabulary detection<br/><br/><br/>
   
   
 # 🪄 Interface
 
-The frontend of VIDEX offers user-friendly interface so that user can easily explore the result of analysis. Here are more detailed descroption about interface and how to use them.<br>
+The frontend of VIDEX offers user-friendly interface so that user can easily explore the result of analysis. Here are more detailed descroption about interface and how to use them.<br/><br/>
   
   
 ## 🏠 Home Page
@@ -22,7 +22,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
     - Set project name and crop the video in upload modal
 - Sort the project
 - Search the project names
-- Delete created projects
+- Delete created projects<br/><br/>
   
   
 ## 📁 Project Page
@@ -37,7 +37,7 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
 - **Search Panel**
     - Submit user query through Search Bar
     - Retrieve the top-20 description and correcponding timestamp
-    - Combine consequtive similar description<br>
+    - Combine consequtive similar description<br/><br/>
   
   
 <img src="Frame_56.png" width="1000" />
@@ -47,17 +47,9 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
     - User can toggle each object class graph
 - **Object Detection Panel**
     - Show the result of object detection with thumbnail and correcponding timestamp
-    - Filter the result by toggling chips or select and setting confidence threshold
+    - Filter the result by toggling chips or select and setting confidence threshold<br/><br/>
   
-  
-# 💨 Quick Start
 
-
-```python
-
-```
-
-<br>
 # 📹 Demo Video
 
-Demo video is avaiable in (링크)
+Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
