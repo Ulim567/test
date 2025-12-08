@@ -8,6 +8,13 @@
 - Natural-language video retrieval
 - Surveillance video
 - Open-vocabulary detection<br/><br/><br/>
+
+
+
+# 📹 Demo Video
+
+Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
+<br/><br/>
   
   
 # 🪄 Interface
@@ -52,7 +59,3 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
     - Show the result of object detection with thumbnail and correcponding timestamp
     - Filter the result by toggling chips or select and setting confidence threshold<br/><br/>
   
-
-# 📹 Demo Video
-
-Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
