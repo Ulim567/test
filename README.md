@@ -102,6 +102,7 @@ cd videx-d
 ## 3. Configure environment
 
 open docker-compose.yml file, change <SERVER_IP> to your server ip
+
 <br/>
 
 ## 4. Pull images and build services
