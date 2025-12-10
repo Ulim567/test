@@ -18,7 +18,7 @@
 # Demo Video
 
 Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
-<br/><br/><br/>
+<br/><br/>
 
 # System Architecture and Implementation
 
