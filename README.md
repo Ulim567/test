@@ -75,7 +75,9 @@ The frontend of VIDEX offers user-friendly interface so that user can easily exp
     - User can toggle each object class graph
 - **Object Detection Panel**
     - Show the result of object detection with thumbnail and correcponding timestamp
-    - Filter the result by toggling chips or select and setting confidence threshold<br/><br/>
+    - Filter the result by toggling chips or select and setting confidence threshold
+
+<br/><br/>
   
 # Quick Start 
 
