@@ -30,11 +30,11 @@ VIDEX is developed by HAIL Lab in Handong Global University. <br/><br/>
 # Demo Video
 
 Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
-<br/><br/><br/>
+<br/>
 
 [![Video Label](http://img.youtube.com/vi/5DjljvfGSZQ/0.jpg)](https://youtu.be/5DjljvfGSZQ)
 
-
+<br/><br/><br/>
 
 # Interface
 
