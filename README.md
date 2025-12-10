@@ -88,7 +88,8 @@ To run VIDEX, you need:
 -   Docker
 -   Docker Compose (included in Docker Desktop on some systems)
 -   NVIDIA GPU + NVIDIA Driver + NVIDIA Container Toolkit
--   [Milvus DB Settings](https://milvus.io/docs/overview.md)
+-   [Milvus DB Settings](https://milvus.io/docs/overview.md
+<br/>
 
 ## 2. Clone the repository
 
@@ -96,10 +97,12 @@ To run VIDEX, you need:
 git clone https://github.com/nth221/videx-d
 cd videx-d
 ```
+<br/>
 
 ## 3. Configure environment
 
 open docker-compose.yml file, change <SERVER_IP> to your server ip
+<br/>
 
 ## 4. Pull images and build services
 
@@ -110,6 +113,7 @@ docker compose pull
 # Build frontend and start all services
 docker compose up -d --build
 ```
+<br/>
 
 ## 5. Check container status
 
@@ -125,12 +129,14 @@ You should see the following containers in Up state:
 -   videx-vivit-api
 -   videx-vlm-api
 -   videx-tte-api
+<br/>
 
 ## 6. Access the web interface
 
 ```
 http://<SERVER_IP>:5173
 ```
+<br/>
 
 ## 7. Stopping and restarting the stack
 
