@@ -22,7 +22,7 @@ Demo video is avaiable in [YouTube](https://youtu.be/5DjljvfGSZQ)
 
 # System Architecture and Implementation
 
-<img src="images/System.png" width=500/>
+<img src="images/System.png"/>
 
 <br/>
 
